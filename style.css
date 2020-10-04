@@ -1,0 +1,43 @@
+tittle{
+	font-size: 20px;
+	text-align: center;
+
+}
+body{
+	background-color: black;
+	color: white;
+}
+header{
+	padding-left: 1200px;
+	
+}
+#tittle{
+	text-align: center;
+}
+.one{
+	float: right;
+	align-items: center;
+	padding: 22px;
+	margin: 40px;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: red;
+	border-width: 20px;
+	background-color: red;
+} 
+.one li{
+	display: inline-block;
+	list-style-type: none;
+}
+
+#second-tittle h1,h2{
+	text-align: center;
+
+}
+.vedio{
+	background-size: 600px;
+}
+main{
+	width: 700px;
+	height: auto;
+}
